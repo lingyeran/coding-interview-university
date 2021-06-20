@@ -184,7 +184,7 @@
 
 - 大多数成功的软件工程师都非常聪明，但他们都有一种觉得自己不够聪明的不安全感。
 - [天才程序员的神话](https://www.bilibili.com/video/BV1JU4y1L7pT?from=search&seid=4007978829090596891)
-- [不要单打独斗：面对技术中的隐形怪物](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [不要单打独斗：面对技术中的隐形怪物](https://www.bilibili.com/video/BV1T5411g7KC?from=search&seid=7402882126024971514)
 
 ## 相关视频资源
 
